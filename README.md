@@ -39,3 +39,4 @@ folder of each app.
 **Version**
 
 `13. February 2019 : 0.0.1 / Initial`
+`14. February 2019 : 0.0.2 / Clean up`
