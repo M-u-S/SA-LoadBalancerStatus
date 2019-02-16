@@ -1,7 +1,7 @@
 **`SA-LoadBalancerStatus`**
 
 This TA provides an REST API endpoint that can be used to add or remove
-(your Load Balancer musty support something like this!) SHC member from the
+(your Load Balancer must support something like this!) SHC member from the
 load balancer group.
 
 The REST endpoint is:
@@ -38,5 +38,5 @@ folder of each app.
 
 **Version**
 
-`13. February 2019 : 0.0.1 / Initial`
-`14. February 2019 : 0.0.2 / Clean up`
+`13. February 2019 : 0.0.1 / Initial`  
+`14. February 2019 : 0.0.2 / Clean up`  
