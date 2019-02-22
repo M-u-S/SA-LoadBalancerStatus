@@ -36,6 +36,9 @@ Github repository: https://github.com/M-u-S/SA-LoadBalancerStatus
 I validate all my apps with appinspect and the log can be found in the README
 folder of each app.
 
+Running Splunk on Windows? Good Luck, not my problem.
+
+
 **Version**
 
 `13. February 2019 : 0.0.1 / Initial`  
